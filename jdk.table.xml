@@ -1,0 +1,595 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (dep)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/dep/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1604431967" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mnist)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/mnist/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/mnist/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/mnist/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/mnist/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/353877541" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 base" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/Mako-1.0.7-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/pip-10.0.0-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/lib/python3.6/site-packages/spotlight-0.1.4-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1148706610" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/ws/ml/mnist" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (py27)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="$USER_HOME$/anaconda3/envs/py27/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/py27/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py27/lib/python2.7/plat-linux2" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py27/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py27/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py27/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1073741462" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/pip-10.0.0-py3.6.egg" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/lib/python3.6/site-packages/spotlight-0.1.4-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1148706610" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (fastai-cpu)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/anaconda3/envs/fastai-cpu/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/site-packages/cycler-0.10.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-69875399" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.5 (sftp://zion@10.1.3.22:5044/home/zion/anaconda3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="sftp://zion@10.1.3.22:5044/home/zion/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/760830006/-763507058" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/760830006/2059388359" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/760830006/1959164658" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/760830006" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="e8051cac-078b-4fac-9647-ab3fdcb3cfc4" WEB_SERVER_CONFIG_NAME="d22" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.3.22:5044" INTERPRETER_PATH="/home/zion/anaconda3/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/760830006/-763507058" remote-root="/home/zion/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/760830006/2059388359" remote-root="/home/zion/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/760830006/1959164658" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.5 (sftp://zion@10.1.7.136:5044/home/zion/anaconda3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="sftp://zion@10.1.7.136:5044/home/zion/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/-763507058" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/2059388359" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/1959164658" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/241212646" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/-1603234824" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/1156480544" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/torchvision-0.2.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1262528626" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="15ba34d4-15c6-48a1-b20d-da3a76b0a869" WEB_SERVER_CONFIG_NAME="d136" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.7.136:5044" INTERPRETER_PATH="/home/zion/anaconda3/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/-763507058" remote-root="/home/zion/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/2059388359" remote-root="/home/zion/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/1959164658" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/241212646" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/caffe2-0.8.2-py3.6-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/-1603234824" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/hypothesis-3.66.30-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/1156480544" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/coverage-5.0a1-py3.6-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1262528626/torchvision-0.2.1-py3.6.egg" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/torchvision-0.2.1-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.5 (sftp://zion@10.1.7.138:5044/home/zion/anaconda3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="sftp://zion@10.1.7.138:5044/home/zion/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-763507058" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/2059388359" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/1959164658" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/241212646" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-1603234824" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-1462173596" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/torchvision-0.2.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-763507057" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-828250829" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/spotlight-0.1.4-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/325357056" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-602997104" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="b3011deb-b5b1-44b7-9bb7-3f74f7ca14f4" WEB_SERVER_CONFIG_NAME="d138" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.7.138:5044" INTERPRETER_PATH="/home/zion/anaconda3/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/-763507058" remote-root="/home/zion/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/2059388359" remote-root="/home/zion/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/1959164658" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/241212646" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/caffe2-0.8.2-py3.6-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/-1603234824" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/hypothesis-3.66.30-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/-1462173596" remote-root="/repo/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-602997104/torchvision-0.2.1-py3.6.egg" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/torchvision-0.2.1-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-763507058" remote-root="/home/zion/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/2059388359" remote-root="/home/zion/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/1959164658" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/241212646" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/caffe2-0.8.2-py3.6-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-1603234824" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/hypothesis-3.66.30-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-1462173596" remote-root="/repo/anaconda3/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/torchvision-0.2.1-py3.6.egg" remote-root="/home/zion/anaconda3/lib/python3.6/site-packages/torchvision-0.2.1-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-763507057" remote-root="/home/zion/anaconda3/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/-828250829" remote-root="/home/zion/anaconda3/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/spotlight-0.1.4-py3.7.egg" remote-root="/home/zion/anaconda3/lib/python3.7/site-packages/spotlight-0.1.4-py3.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-602997104/325357056" remote-root="/home/zion/anaconda3/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (fastai-cpu) (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="$USER_HOME$/anaconda3/envs/fastai-cpu/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/site-packages/defusedxml-0.5.0-py3.6.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/envs/fastai-cpu/lib/python3.6/site-packages/torchvision-0.2.1-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-69875399" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.6 (sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/fastai-cpu-c/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/fastai-cpu-c/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1369102200" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1c7c7ce5-0108-4925-877b-c5014e9ebb88" WEB_SERVER_CONFIG_NAME="d51-python" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.4.51:5044" INTERPRETER_PATH="/home/zion/anaconda3/envs/fastai-cpu-c/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.6" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.0 (sftp://zion@10.1.7.137:5044/home/zion/anaconda3/envs/fastai-cpu/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="sftp://zion@10.1.7.137:5044/home/zion/anaconda3/envs/fastai-cpu/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/678673174/-76258009" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/678673174/2059388359" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/678673174/-73330229" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/678673174" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="a7c381e6-ec15-4f53-b29f-a19fe1b28327" WEB_SERVER_CONFIG_NAME="d137" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.7.137:5044" INTERPRETER_PATH="/home/zion/anaconda3/envs/fastai-cpu/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/678673174/-76258009" remote-root="/home/zion/anaconda3/envs/fastai-cpu/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/678673174/2059388359" remote-root="/home/zion/.local/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/678673174/-73330229" remote-root="/home/zion/anaconda3/envs/fastai-cpu/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.7.0 (sftp://zion@10.1.4.51:5044/home/zion/anaconda3/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="sftp://zion@10.1.4.51:5044/home/zion/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1798878351/-763507057" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1798878351/-828250829" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1798878351/spotlight-0.1.4-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1798878351" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1c7c7ce5-0108-4925-877b-c5014e9ebb88" WEB_SERVER_CONFIG_NAME="d51-python" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.4.51:5044" INTERPRETER_PATH="/home/zion/anaconda3/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1798878351/-763507057" remote-root="/home/zion/anaconda3/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1798878351/-828250829" remote-root="/home/zion/anaconda3/lib/python3.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1798878351/spotlight-0.1.4-py3.7.egg" remote-root="/home/zion/anaconda3/lib/python3.7/site-packages/spotlight-0.1.4-py3.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.7 (sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/py36/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/py36/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1074908171/1976371252" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1074908171/-1060840936" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1074908171" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1c7c7ce5-0108-4925-877b-c5014e9ebb88" WEB_SERVER_CONFIG_NAME="d51-python" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.4.51:5044" INTERPRETER_PATH="/home/zion/anaconda3/envs/py36/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1074908171/1976371252" remote-root="/home/zion/anaconda3/envs/py36/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1074908171/-1060840936" remote-root="/home/zion/anaconda3/envs/py36/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.7 (sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/py2/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/py2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1838842758/-962918323" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1838842758/1468021361" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1838842758" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1c7c7ce5-0108-4925-877b-c5014e9ebb88" WEB_SERVER_CONFIG_NAME="d51-python" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.4.51:5044" INTERPRETER_PATH="/home/zion/anaconda3/envs/py2/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1838842758/-962918323" remote-root="/home/zion/anaconda3/envs/py2/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1838842758/1468021361" remote-root="/home/zion/anaconda3/envs/py2/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.7 (sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/tensorflow/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="sftp://zion@10.1.4.51:5044/home/zion/anaconda3/envs/tensorflow/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1116456784/-1853143473" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1116456784/367185139" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1116456784" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1c7c7ce5-0108-4925-877b-c5014e9ebb88" WEB_SERVER_CONFIG_NAME="d51-python" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.4.51:5044" INTERPRETER_PATH="/home/zion/anaconda3/envs/tensorflow/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1116456784/-1853143473" remote-root="/home/zion/anaconda3/envs/tensorflow/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1116456784/367185139" remote-root="/home/zion/anaconda3/envs/tensorflow/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.7 (sftp://bj@172.17.3.89:22/home/bj/anaconda3/envs/py36/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="sftp://bj@172.17.3.89:22/home/bj/anaconda3/envs/py36/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/529359654/342113518" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/529359654/1713127762" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/529359654" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="9e1e7021-9c83-4ae4-9e8f-d1de304d0f9a" WEB_SERVER_CONFIG_NAME="172.17.3.89" WEB_SERVER_CREDENTIALS_ID="sftp://bj@172.17.3.89:22" INTERPRETER_PATH="/home/bj/anaconda3/envs/py36/bin/python" HELPERS_PATH="/home/bj/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/529359654/342113518" remote-root="/home/bj/anaconda3/envs/py36/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/529359654/1713127762" remote-root="/home/bj/anaconda3/envs/py36/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.7 (sftp://zion@10.1.7.138:5044/home/zion/anaconda3/envs/py36/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.7" />
+      <homePath value="sftp://zion@10.1.7.138:5044/home/zion/anaconda3/envs/py36/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1262969962/1976371252" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/1262969962/-1060840936" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1262969962" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="b3011deb-b5b1-44b7-9bb7-3f74f7ca14f4" WEB_SERVER_CONFIG_NAME="d138" WEB_SERVER_CREDENTIALS_ID="sftp://zion@10.1.7.138:5044" INTERPRETER_PATH="/home/zion/anaconda3/envs/py36/bin/python" HELPERS_PATH="/home/zion/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1262969962/1976371252" remote-root="/home/zion/anaconda3/envs/py36/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/1262969962/-1060840936" remote-root="/home/zion/anaconda3/envs/py36/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
