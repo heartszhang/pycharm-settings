@@ -49,8 +49,8 @@
           <option name="port" value="5044" />
         </fileTransfer>
       </webServer>
-      <webServer id="b3011deb-b5b1-44b7-9bb7-3f74f7ca14f4" name="d138" url="http://10.1.7.138">
-        <fileTransfer host="10.1.7.138" port="5044" rootFolder="/home/zion" accessType="SFTP" authAgent="true">
+      <webServer id="b3011deb-b5b1-44b7-9bb7-3f74f7ca14f4" name="d138" url="http://x138">
+        <fileTransfer host="x138" port="5044" rootFolder="/home/zion" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
