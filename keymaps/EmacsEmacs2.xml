@@ -1,0 +1,5 @@
+<keymap version="1" name="EmacsEmacs2" parent="Emacs">
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+</keymap>
